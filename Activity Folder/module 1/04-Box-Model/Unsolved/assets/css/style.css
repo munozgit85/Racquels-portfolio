@@ -1,0 +1,15 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid black;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+margin: 20px 20px 20px 20px purple;
+padding:20px blue;
+border: 20px solid green; 
+}

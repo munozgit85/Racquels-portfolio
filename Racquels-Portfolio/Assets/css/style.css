@@ -224,7 +224,7 @@ text-align: center;
 .work-mern {
     background-image: url("../images/bazaar.jpeg");
     background-size:cover;
-    height: 1200px;
+    height: 500px;
     width: 1250px;
     text-align: center;
 font-size: large;
@@ -297,11 +297,10 @@ font-size: large;
 
     .resume-pic {
       background-image: url("../images/purplesky.jpeg");
-      font-weight: bold;
-      font-size: 35px;
       color:black;
+      font:20px;
       width: 1700px;
-      height: 1250px;
+      height: 500px;
       Margin: 40px;
       Padding: 40px;
       border:20px;

@@ -31,9 +31,9 @@ header {
     z-index: 9999;
   }
 
-  header img {
-    align-items: flex-end;
-  }
+header h1 img {
+  display: inline;
+}
 
 header h1 {
     font-weight: bold;

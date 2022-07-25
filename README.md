@@ -14,7 +14,8 @@ Elements used in this document include: navigation tabs from the header that lin
  https://munozgit85.github.io/Racquels-portfolio/
  
 ##Screenshot of the website :
-https://github.com/munozgit85/Racquels-portfolio/blob/89e57b3a30eff823281937f707942ec65a13d0c5/Racquels-portfolio/Assets/images/indexpicture.pdf
+
+https://github.com/munozgit85/Racquels-portfolio/blob/0deb7252591fc5e98ec8cd46a9386423e90c49e7/Assets/images/indexpicture.pdf
 
 
 

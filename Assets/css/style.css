@@ -185,7 +185,7 @@ margin-top: 50px;
     }
 
 .work-javascript {
-background-image: url("../images/medical.jpeg");
+background-image: url("../images/musicPlaylist\ 1.jpg");
 background-size:cover;
 height: 400px;
 width: 625px;
@@ -210,6 +210,8 @@ text-align: center;
 .worknode {
     background-image: url("../images/library.jpeg");
     background-size:cover;
+    border: 10px;
+    border-color: azure;
     height: 400px;
     width: 525px;
     text-align:center;

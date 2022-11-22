@@ -78,7 +78,7 @@ Github repository /Heroku deployed application
 
 1. Github repo: https://github.com/munozgit85/texteditor-pwa.git
 2. Heroku deployed application for production: https://fathomless-bayou-07571.herokuapp.com/
-3. Heroky application for development : https://infinite-ocean-03727.herokuapp.com/
+3. Heroku application for development : https://infinite-ocean-03727.herokuapp.com/
 
 ## License
 
